@@ -1,6 +1,6 @@
 # Matrix Completion with Hypergraphs: Sharp Thresholds and Efficient Algorithms
 
-This repository contains the experimental code for our paper, *"Matrix Completion with Hypergraphs: Sharp Thresholds and Efficient Algorithms."* (Accepted by Learning on Graphs Conference(LoG) 2024) The code is organized to allow straightforward reproduction of the experiments presented in Figure 3 of the paper, including both synthetic and real-world datasets.
+This repository contains the experimental code for our paper, *"Matrix Completion with Hypergraphs: Sharp Thresholds and Efficient Algorithms."* (Accepted by Learning on Graphs Conference(LoG) 2024). The code is organized to allow straightforward reproduction of the experiments presented in Figure 3 of the paper, including both synthetic and real-world datasets.
 
 ## Synthetic Data Experiments (Figure 3a, b, c)
 
